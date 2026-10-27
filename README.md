@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/antigravity-to-api-banner.svg" alt="Antigravity + API" width="100%" />
+  <img src="assets/antigravity-to-api-banner.jpg" alt="Antigravity + API" width="100%" />
 </p>
 
 # AGY Local API + Memory Search
