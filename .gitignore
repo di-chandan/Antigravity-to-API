@@ -1,0 +1,14 @@
+# Local environment settings / secrets
+.env
+.env.*
+!.env.example
+
+# Installed packages and runtime logs
+node_modules/
+*.log
+
+# Local conversation archive may contain private data
+memory/*.sqlite
+memory/*.sqlite-*
+memory/raw/
+.DS_Store
