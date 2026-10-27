@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/antigravity-to-api-banner.svg" alt="Antigravity + API" width="100%" />
+</p>
+
 # AGY Local API + Memory Search
 
 OpenAI-compatible local HTTP bridge for the AGY CLI, with a local searchable archive of conversations and an MCP server that lets AGY search that archive as a tool.
